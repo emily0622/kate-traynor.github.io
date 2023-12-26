@@ -1,0 +1,4 @@
+home/__pycache__/*
+recursive-exclude * *.py[co]
+home/migrations/*
+Django_Portfolio_MohammadBurhan/__pycache__/*
